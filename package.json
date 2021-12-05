@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-21",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@fonsi",
+  "license": "ISC"
+}
